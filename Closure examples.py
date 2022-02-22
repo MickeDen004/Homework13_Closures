@@ -89,6 +89,7 @@ a = d(3, 2)
 print(a)
 print(a[3])
 
+print(a)
 
 
 
